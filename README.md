@@ -10,3 +10,8 @@ Sample website with plenty of files for demos
 
 Added more info
 
+## Other Information
+
+More info
+
+Something else
