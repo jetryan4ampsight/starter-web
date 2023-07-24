@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jum -- leader -- <twitter>
 
 # THANKS
 
